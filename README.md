@@ -1,6 +1,8 @@
 ### Hi there 👋 
 ```Csharp
+using System;
 using System.Collections.Generic;
+
 public class Miguel {
   public string Name = "Miguel Mahecha";
   public int Age = 20;
@@ -14,6 +16,8 @@ You can find me:
 - [LinkedIn](https://www.linkedin.com/in/miguelmahecha2001/)
 - [Twitter](https://twitter.com/Mr_MiguelSays)
 - [Reddit](https://www.reddit.com/user/Mr_MiguelSays)
+
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMahecha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MiguelMahecha/MiguelMahecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
