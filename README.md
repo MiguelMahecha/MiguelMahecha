@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
+```Csharp
+using System.Collections.Generic;
+public class Miguel {
+  public string Name = "Miguel Mahecha";
+  public int Age = 20;
+  public string Career = "Systems Engineering, Student";
+  public string Field = "Backend";
+  public List<string> Languages = { "Spanish", "English" };
+  public List<string> Code = { "Csharp", "Python", "Nodejs" }
+}
+```
+You can find me: 
+- [LinkedIn](https://www.linkedin.com/in/miguelmahecha2001/)
+- [Twitter](https://twitter.com/Mr_MiguelSays)
+- [Reddit](https://www.reddit.com/user/Mr_MiguelSays)
 
 <!--
 **MiguelMahecha/MiguelMahecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
