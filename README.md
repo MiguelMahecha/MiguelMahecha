@@ -15,7 +15,6 @@ public class Miguel {
 You can find me: 
 - [LinkedIn](https://www.linkedin.com/in/miguelmahecha2001/)
 - [Twitter](https://twitter.com/Mr_MiguelSays)
-- [Reddit](https://www.reddit.com/user/Mr_MiguelSays)
 
 [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMahecha)](https://github.com/anuraghazra/github-readme-stats)
 
