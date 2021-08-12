@@ -9,7 +9,7 @@ public class Miguel {
   public string Career = "Systems Engineering, Student";
   public string Field = "Backend";
   public List<string> Languages = { "Spanish", "English" };
-  public List<string> Code = { "Csharp", "Python", "Nodejs" }
+  public List<string> Code = { "Csharp", "Python" }
 }
 ```
 You can find me: 
