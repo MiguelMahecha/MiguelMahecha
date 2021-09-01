@@ -1,15 +1,13 @@
 ### Hi there 👋 
-```Csharp
-using System;
-using System.Collections.Generic;
+```Javascript
 
-public class Miguel {
-  public string Name = "Miguel Mahecha";
-  public int Age = 20;
-  public string Career = "Systems Engineering, Student";
-  public string Field = "Backend";
-  public List<string> Languages = { "Spanish", "English" };
-  public List<string> Code = { "Csharp", "Python" }
+const miguel = {
+  name = "Miguel Mahecha";
+  age = 20;
+  career = "Systems Engineering, Student";
+  field = "Backend";
+  languages = ["Spanish", "English"];
+  code = ["Csharp", "Python"]
 }
 ```
 You can find me: 
