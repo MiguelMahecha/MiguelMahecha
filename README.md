@@ -7,9 +7,9 @@ Full-Stack Web Developer
 Greetings! I'm a systems engineering student with a keen interest in web app and video game development. My fascination lies in the backend aspects of these creations. From conceptualization to coding, I'm hands-on throughout the project lifecycle. I emphasize crafting high-quality code and delivering software that meets a high standard, despite my limited real-world experience.
 
 *   🌍  I'm based in Bogotá D.C., Colombia
-*   🖥️  See my portfolio at [My Website](http://www.miguelmahecha.com)
+*   🖥️  See my portfolio at [miguelmahecha.com](https://www.miguelmahecha.com)
 *   ✉️  You can contact me at [miguelmahecha365@outlook.com](mailto:miguelmahecha365@outlook.com)
-*   🚀  I'm currently working on [The Anjali Dance Academy Website](http://www.anjali.com)
-*   🧠  I'm learning React.js
+*   🚀  I'm currently working on [FlixList](https://www.flixlist.com)
+*   🧠  I'm learning Spring Boot
 *   🤝  I'm open to collaborating on real world projects
 *   ⚡  I use light themes, but I'm not crazy. I swear...
