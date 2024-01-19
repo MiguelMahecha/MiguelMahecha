@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Mahecha
 ======================================================================================================================================
 
-Full-Stack Web Developer
+Backend Web Developer
 ------------------------
 
-Hi! I'm a systems engineering student with a keen interest in web app and video game development. My fascination lies in the backend side of things. From conceptualization to coding, I'm hands-on throughout the project lifecycle. I emphasize crafting high-quality code and delivering software that meets a high standard, despite my limited real-world experience. I always give my best to the project and the team.
+Hi! I'm a systems engineering student with a keen interest in web app and video game development. My interest lies in the backend side of things (because CSS scary). From conceptualization to coding, I'm hands-on throughout the project lifecycle. I emphasize crafting high-quality code and delivering software that meets a high standard, despite my limited real-world experience. I always give my best to the project and the team.
 
 * 🌍  I'm based in Bogotá D.C., Colombia
 * 🖥️  See my portfolio at [My Website](http://www.miguelmahecha.com)
