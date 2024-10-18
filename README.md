@@ -12,7 +12,7 @@ While playing Cyberpunk 2077, I opened the door after sleeping through a sandsto
 And so now I am an aspiring Game Developer. I am doing my best to learn about all the disciplines that make up video games, the ultimate expression of all the arts. However, since one can only be great at so many things, I've focused especially on graphics programming. And so I am on a journey that, for now, is taking me through [LearnOpenGL](https://learnopengl.com/).
 
 * 🌍  I'm based in Bogotá D.C., Colombia
-* 🖥️  See my portfolio at [My Website](http://www.miguelmahecha.com)
+* 🖥️  See my portfolio at [Here, you are already here](https://www.github.com/MiguelMahecha)
 * ✉️  You can contact me at [miguelmahecha365@outlook.com](mailto:miguelmahecha365@outlook.com)
 * 🤝  I'm open to collaborating on real-world projects
 * ⚡  I use light themes, but I'm not crazy. I swear...
@@ -31,9 +31,9 @@ src="https://img.shields.io/twitter/follow/Mr_MiguelSays?logo=twitter&style=for-
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> -->
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> -->
 </p>
 
 ### Socials
