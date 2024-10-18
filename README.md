@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8fbdb43c-f37d-49c0-bbce-0e98838d7151)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Mahecha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Mahecha
 ======================================================================================================================================
 
 Game Developer and Graphics Programmer (aspiring, anyway)
