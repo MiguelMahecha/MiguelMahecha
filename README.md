@@ -1,15 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Mahecha
 ======================================================================================================================================
 
-Backend Web Developer
+Game Developer and Graphics Programmer (aspiring, anyway)
 ------------------------
 
-Hi! I'm a systems engineering student with a keen interest in web app and video game development. My interest lies in the backend side of things (because CSS scary). From conceptualization to coding, I'm hands-on throughout the project lifecycle. I emphasize crafting high-quality code and delivering software that meets a high standard, despite my limited real-world experience. I always give my best to the project and the team.
+Hello there! I am a Systems Engineering student from Colombia. Like many others, my programming journey started with HTML, CSS, and JavaScript. However, I grew disenchanted with the Web world. It just didn't feel right to me. I felt like I was only in it
+because it pays well. I started jumping from one field to the other. Cybersecurity, AI, DevOps, etc. Things didn't click. I would also look at my passions beyond programming. 2D art, 3D art, music, writing. I often lost myself in my imaginary world and filled it with fantasy stories. But how, in the name of the programming gods, can I find a way to learn all of those very different disciplines without sacrificing my future? I didn't know.
+
+After sleeping through a sandstorm with Panam and Saul in a cabin in the middle of nowhere, I opened the door and saw this beautiful desert landscape, with the sun lighting the sand and the plants, Panam driving her motorcycle to the horizon. And then, it finally clicked.
+
+And so now I am an aspiring Game Developer. I am doing my best to learn about all the disciplines that make up video games, the ultimate expression of all the arts. However, since one can only be great at so many things, I've focused especially on graphics programming. And so I am on a journey that, for now, is taking me through (LearnOpenGL)[https://learnopengl.com/].
 
 * 🌍  I'm based in Bogotá D.C., Colombia
 * 🖥️  See my portfolio at [My Website](http://www.miguelmahecha.com)
 * ✉️  You can contact me at [miguelmahecha365@outlook.com](mailto:miguelmahecha365@outlook.com)
-* 🤝  I'm open to collaborating on real world projects
+* 🤝  I'm open to collaborating on real-world projects
 * ⚡  I use light themes, but I'm not crazy. I swear...
 
 <a href="https://www.x.com/Mr_MiguelSays" target="_blank" rel="noreferrer"><img
